@@ -2,13 +2,15 @@
 
 
 
+```java
+
 package javaswing;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-```java
+
 public class JavaSwing extends JFrame implements ActionListener {
     
     private final JButton b1,b2,b3;
@@ -57,15 +59,6 @@ public class JavaSwing extends JFrame implements ActionListener {
     }
     
 }
+
+
 ```
-
-
-
-
-
-
-
-
-
-
-
